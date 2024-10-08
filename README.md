@@ -14,7 +14,8 @@ Dự án này sử dụng cảm biến quang trở (LDR) để đo cường đ�
 - Cảm biến quang trở (LDR)
 - Điện trở (1kΩ)
 - Dây nối
-- Nguồn điện (USB hoặc pin)
+- Cáp USB hoặc nguồn khác
+- Breadboard
 
 ## Sơ Đồ Kết Nối
 - Kết nối một chân LDR với nguồn 3.3V.
