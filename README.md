@@ -22,4 +22,4 @@ Dự án này sử dụng cảm biến quang trở (LDR) để đo cường đ�
 - Nối điểm giữa LDR và điện trở với IO34(hoặc thay đổi cho phù hợp với bạn).
 
 ## Ảnh teleplot
-![Đồ thị cường độ ánh sáng thay đổi theo thời gian](Teleplot - Untitled (Workspace) - Visual Studio Code 10_8_2024 9_49_49 PM.png)
+![Đồ thị cường độ ánh sáng thay đổi theo thời gian](anh.png)
